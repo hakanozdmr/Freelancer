@@ -1,4 +1,3 @@
 # Freelancer
 Start Bootstrap Freelancer Clone
-
-index.html
+![alt text](http://url/to/index.html)
